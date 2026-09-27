@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Анна Смирнова",
+    "role": "designer",
+    "projects": [1, 2]
+  },
+  {
+    "name": "Игорь Петров",
+    "role": "lead",
+    "projects": [1]
+  },
+  {
+    "name": "Мария Коваль",
+    "role": "viewer",
+    "projects": [1, 2]
+  }
+]

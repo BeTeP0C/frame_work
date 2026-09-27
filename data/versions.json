@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "mockup_id": 1,
+    "number": 1,
+    "file_name": "login_screen.fig",
+    "size_mb": 10.2,
+    "author": "Анна Смирнова",
+    "created_at": "2026-09-01",
+    "comment": "Первый вариант экрана"
+  },
+  {
+    "id": 2,
+    "mockup_id": 1,
+    "number": 2,
+    "file_name": "login_screen.fig",
+    "size_mb": 11.4,
+    "author": "Анна Смирнова",
+    "created_at": "2026-09-08",
+    "comment": "Добавлен вход по коду из СМС"
+  },
+  {
+    "id": 3,
+    "mockup_id": 1,
+    "number": 3,
+    "file_name": "login_screen.fig",
+    "size_mb": 12.5,
+    "author": "Игорь Петров",
+    "created_at": "2026-09-15",
+    "comment": "Изменен цвет кнопки входа"
+  },
+  {
+    "id": 4,
+    "mockup_id": 2,
+    "number": 1,
+    "file_name": "history.fig",
+    "size_mb": 8.7,
+    "author": "Анна Смирнова",
+    "created_at": "2026-09-10",
+    "comment": "Список операций за месяц"
+  },
+  {
+    "id": 5,
+    "mockup_id": 3,
+    "number": 1,
+    "file_name": "landing.psd",
+    "size_mb": 24.0,
+    "author": "Анна Смирнова",
+    "created_at": "2026-09-05",
+    "comment": "Первая сборка главной страницы"
+  }
+]
